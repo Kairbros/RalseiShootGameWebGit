@@ -1,9 +1,9 @@
 PICS
 
 <ul>
-<td><img src="/Fotos/Foto1.png" style="width: 45%;"></td>
-<td><img src="/Fotos/Foto2.png" style="width: 45%;"/></td>
-<td><img src="/Fotos/Foto3.png" style="width: 40%" /></td>
+<td><img src="/Fotos/Foto1.png"/></td>
+<td><img src="/Fotos/Foto2.png" /></td>
+<td><img src="/Fotos/Foto3.png" /></td>
 </ul>
 
 TRY IT <a href="https://ralseishootgamegit.netlify.app/">HERE!!</a>
